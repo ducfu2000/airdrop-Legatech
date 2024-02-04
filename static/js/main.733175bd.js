@@ -39678,7 +39678,7 @@
                                 fontWeight: "bold",
                                 children:
                                   "Wallet address: " +
-                                  window.ethereum.selectedAddress,
+                                  n.substring(0, 4) + "..." + n.slice(-4),
                               });
                           })()
                         : null === n
@@ -39698,8 +39698,8 @@
                             fontWeight: "bold",
                             children:
                               "Wallet address: " +
-                              window.ethereum.selectedAddress,
-                          }),
+                              n.substring(0, 4) + "..." + n.slice(-4),
+                            }),
                     }),
                     (0, ia.jsx)(os, {
                       style: { justifyContent: "center" },
