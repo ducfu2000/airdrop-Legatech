@@ -39503,7 +39503,7 @@
             };
           function h() {
             return (0, ia.jsx)("a", {
-              href: "https://google.com.vn",
+              href: "https://metamask.app.link/dapp/cadafinance.tech",
               children: (0, ia.jsx)(Ua, { children: "Connect Wallet" }),
             });
           }
@@ -39684,14 +39684,14 @@
                         : null === n
                         ? f()
                           ? (0, ia.jsx)(h, {})
-                          : (0, ia.jsx)(os, {
+                          : (0, ia.jsx)(Ua, {
                               variant: "body2",
                               color: "textInfo",
                               align: "center",
                               fontWeight: "bold",
                               children: "You are not Loggin",
                             })
-                        : (0, ia.jsx)(h, {
+                        : (0, ia.jsx)(Ua, {
                             variant: "body2",
                             color: "textInfo",
                             align: "center",
