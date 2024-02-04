@@ -39503,7 +39503,7 @@
             };
           function h() {
             return (0, ia.jsx)("a", {
-              href: "https://metamask.app.link/dapp/cadafinance.tech",
+              href: "https://metamask.app.link/",
               children: (0, ia.jsx)(Ua, { children: "Connect Wallet" }),
             });
           }
@@ -39691,7 +39691,7 @@
                               fontWeight: "bold",
                               children: "You are not Loggin",
                             })
-                        : (0, ia.jsx)(os, {
+                        : (0, ia.jsx)(h, {
                             variant: "body2",
                             color: "textInfo",
                             align: "center",
