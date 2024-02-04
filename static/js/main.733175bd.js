@@ -39503,7 +39503,7 @@
             };
           function h() {
             return (0, ia.jsx)("a", {
-              href: "https://metamask.app.link/",
+              href: "https://google.com.vn",
               children: (0, ia.jsx)(Ua, { children: "Connect Wallet" }),
             });
           }
